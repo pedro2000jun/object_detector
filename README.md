@@ -1,2 +1,3 @@
-# object_detector
-Project designed to build a object detector.
+## Object Detector
+
+Project designed to build my first object detector.
